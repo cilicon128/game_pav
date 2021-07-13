@@ -1,13 +1,13 @@
 const quiz = [
     {
-        question: 'ゲーム市場、最も売れたゲーム機は次の内どれ？',
+        question: '事業？',
         answers: [
-            'スーパーファミコン',
-            'プレイステーション',
-            '任天堂Switch',
-            '任天堂DS'  
+            'project',
+            'program',
+            'plan',
+            'schedule'  
         ],
-        correct: '任天堂DS'
+        correct: 'project'
     },
     {
         question: 'ゲームソフト市場、最も売れたソフトは次の内どれ？',
