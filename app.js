@@ -1,6 +1,6 @@
 const quiz = [
     {
-        question: '事業とは？',
+        question: '事業とはどれ？',
         answers: [
             'project',
             'program',
@@ -30,7 +30,6 @@ const quiz = [
         correct: 'panasonicLetsnote'
     }
 ];
-
 
 const quizLength = quiz.length;
 let quizIndex = 0;
