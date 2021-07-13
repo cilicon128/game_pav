@@ -31,6 +31,7 @@ const quiz = [
     }
 ];
 
+
 const quizLength = quiz.length;
 let quizIndex = 0;
 let score = 0;
